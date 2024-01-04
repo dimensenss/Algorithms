@@ -1,0 +1,4 @@
+﻿  Лаб 6.cpp
+D:\Programing\Algoritms\6\Лаб 6\Лаб 6.cpp(52,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Programing\Algoritms\6\Лаб 6\Лаб 6.cpp(576,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Лаб 6.vcxproj -> D:\Programing\Algoritms\6\x64\Debug\Лаб 6.exe

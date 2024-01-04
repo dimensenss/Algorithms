@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Programing\Algoritms\5\lab5\Source.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programing\Algoritms\5\lab5\Source.cpp(134,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programing\Algoritms\5\lab5\Source.cpp(135,34): warning C4018: <: несоответствие типов со знаком и без знака
+  lab5.cpp
+  Создание кода...
+D:\Programing\Algoritms\5\lab5\Source.cpp(210): warning C4715: KMP: значение возвращается не при всех путях выполнения
+  lab5.vcxproj -> D:\Programing\Algoritms\5\Debug\lab5.exe
